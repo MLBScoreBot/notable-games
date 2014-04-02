@@ -7,6 +7,7 @@ The immediate goal of such an undertaking is to build a test suite for [@MLBScor
 ### Categories ###
 
 * [Game-ending scoring plays](https://github.com/MLBScoreBot/notable-games/blob/master/game-ending-scoring-plays.md)
+* [Other scoring plays](https://github.com/MLBScoreBot/notable-games/blob/master/scoring-plays.md)
 
 ### References ###
 
